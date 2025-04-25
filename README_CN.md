@@ -29,7 +29,7 @@
 		  <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">白天亮度控制</a> - 一个小工具，可以根据夜间/白天自动调整 Windows 设备亮度</td>
 	   </tr>
 	   <tr>
-		  <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">一个简单的 Python 服务器</a> - 一个概念验证的 Python 客户端-服务器应用</td>
+		  <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">一个简单的 Python 服务器</a> - 一个概念验证的 Python 客户端-服务器应用</td>
 		  <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - 原子国际象棋变种探索器</td>
 	   </tr>
 	</table>

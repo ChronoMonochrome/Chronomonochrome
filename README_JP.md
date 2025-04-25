@@ -29,7 +29,7 @@
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">昼間の明るさ制御</a> - Windowsで夜間/昼間にデバイスの明るさを自動的に調整する小さなツール</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">シンプルなPythonサーバー</a> - Pythonによる概念実証のクライアントサーバーアプリケーション</td>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">シンプルなPythonサーバー</a> - Pythonによる概念実証のクライアントサーバーアプリケーション</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - 原子チェスのバリエーションエクスプローラー</td>
       </tr>
    </table>

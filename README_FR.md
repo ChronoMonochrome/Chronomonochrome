@@ -29,7 +29,7 @@
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">Contrôle de la luminosité diurne</a> - Un petit outil qui ajuste automatiquement la luminosité de l'appareil pour la nuit/le jour sous Windows</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">Un Serveur Python Simple</a> - Une application client-serveur proof-of-concept en Python</td>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">Un Serveur Python Simple</a> - Une application client-serveur proof-of-concept en Python</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - Explorateur de variante d'échecs atomiques</td>
       </tr>
    </table>

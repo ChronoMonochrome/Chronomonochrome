@@ -29,7 +29,7 @@
             <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">Daytime Brightness Control</a> - A small tool that automatically adjusts the brightness of Windows device depending on the time of day</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">A Simple Python Server</a> - A proof-of-concept client-server application in python</td>
+            <td><a href="https://github.com/ChronoMonochrome/Flask_survey">Flask_survey</a> - Survey application implemented in Flask</td>
             <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> Atomic chess variant explorer</td>
         </tr>
     </table>

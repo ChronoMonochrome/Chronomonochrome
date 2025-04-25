@@ -29,7 +29,7 @@
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">Gündüz Parlaklık Kontrolü</a> - Windows'ta gece/gündüz için cihaz parlaklığını otomatik olarak ayarlayan küçük bir araç</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">Basit Bir Python Sunucusu</a> - Python'da bir kanıt konsepti istemci-sunucu uygulaması</td>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">Basit Bir Python Sunucusu</a> - Python'da bir kanıt konsepti istemci-sunucu uygulaması</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - Atomik satranç varyantı keşfi</td>
       </tr>
    </table>

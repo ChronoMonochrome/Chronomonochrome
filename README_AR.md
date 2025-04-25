@@ -29,7 +29,7 @@
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">تحكم في سطوع النهار</a> - أداة صغيرة تقوم بضبط سطوع الجهاز تلقائيًا ليلًا ونهارًا على نظام Windows</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">خادم بايثون بسيط</a> - تطبيق نموذج عميل / خادم في بايثون</td>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">خادم بايثون بسيط</a> - تطبيق نموذج عميل / خادم في بايثون</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - مستكشف لعبة الشطرنج الذري</td>
       </tr>
    </table>

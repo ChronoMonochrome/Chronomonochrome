@@ -29,7 +29,7 @@
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">Управление яркостью</a> - Небольшой инструмент, который автоматически регулирует яркость устройства в зависимости от времени суток на Windows</td>
       </tr>
       <tr>
-         <td><a href="https://github.com/ChronoMonochrome/SimpleClientServer/">Простой Python Сервер</a> - Proof-of-concept клиент-сервер приложение на Python</td>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey">Flask survey</a> - Опросник, написанный на Flask</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - Доска анализа для варианта атомных шахмат</td>
       </tr>
    </table>
