@@ -5,6 +5,7 @@
         </a>
     </p>
     <p align="center">
+        <span>EN</span>|
         <a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_CN.md"><span>中文</span></a>|
         <a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_FR.md"><span>Français</span></a>|
         <a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_RU.md"><span>Русский</span></a>|

@@ -5,10 +5,11 @@
         </a>
     </p>
 	<p align="center">
+	    <a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README.md"><span>EN</span></a>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_CN.md"><span>中文</span></a>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_FR.md"><span>Français</span></a>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_RU.md"><span>Русский</span></a>|
-		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_AR.md"><span>عربي</span></a>|
+		<span>عربي</span>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_JP.md"><span>日本語</span></a>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_PTBR.md"><span>Português</span></a>|
 		<a href="https://github.com/ChronoMonochrome/ChronoMonochrome/blob/master/README_TR.md"><span>Türkçe</span></a>
