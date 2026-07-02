@@ -19,23 +19,23 @@
    <table align="center">
       <tr>
          <td><a href="https://github.com/ChronoMonochrome/flask-food-delivery-service">flask-food-delivery-service</a> - Flask ile yazılmış yemek teslimat servisi</td>
+         <td><a href="https://github.com/ChronoMonochrome/django_project">django_project</a> - Celery, Redis, PostgreSQL, Bjoern ve Nginx kullanarak Excel dosyalarını yüklemek ve verileri güvenli bir API aracılığıyla yönetmek için bir Django web uygulaması.</td>
+      </tr>
+      <tr>
          <td><a href="https://github.com/ChronoMonochrome/CppStation">CppStation</a> - C++ ile yazılmış bir PlayStation emülatörü konsept kanıtı</td>
-      </tr>
-      <tr>
          <td><a href="https://github.com/ChronoMonochrome/DPI_Blockcheck">DPI Blockcheck</a> - Windows üzerinde sitelerin erişilebilirliğini test etmek için bir python betiği</td>
+      </tr>
+      <tr>
          <td><a href="https://github.com/ChronoMonochrome/Win32Hook">Win32Hook</a> - Temel Windows API hooking tekniğinin bir örneği</td>
-      </tr>
-      <tr>
          <td><a href="https://github.com/ChronoMonochrome/hacking_the_blobs">Android eğitimi</a> - IDA ve onaltılık düzenleyici kullanarak özel Android blobs'larını düzeltme üzerine bir eğitim</td>
+      </tr>
+      <tr>
          <td><a href="https://github.com/ChronoMonochrome/rvdata2json">RVData2Json (Python aracı)</a> - RVData'yı (RPGMaker oyun verisi formatı) JSON'a dönüştür</td>
-      </tr>
-      <tr>
          <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">Gündüz Parlaklık Kontrolü</a> - Windows'ta gece/gündüz için cihaz parlaklığını otomatik olarak ayarlayan küçük bir araç</td>
-         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">Basit Bir Python Sunucusu</a> - Python'da bir kanıt konsepti istemci-sunucu uygulaması</td>
       </tr>
       <tr>
+         <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">Basit Bir Python Sunucusu</a> - Python'da bir kanıt konsepti istemci-sunucu uygulaması</td>
          <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - Atomik satranç varyantı keşfi</td>
-         <td></td>
       </tr>
    </table>
 </div>

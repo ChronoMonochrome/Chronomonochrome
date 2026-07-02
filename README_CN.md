@@ -19,23 +19,23 @@
 	<table align="center">
 	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/flask-food-delivery-service">flask-food-delivery-service</a> - 一个用 Flask 编写的外卖配送服务</td>
+		  <td><a href="https://github.com/ChronoMonochrome/django_project">django_project</a> - 一个基于 Django 的 Web 应用程序，使用 Celery、Redis、PostgreSQL、Bjoern 和 Nginx 实现 Excel 文件上传和通过安全 API 进行数据管理。</td>
+	   </tr>
+	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/CppStation">CppStation</a> - 一个用 C++ 编写的概念验证 PlayStation 模拟器</td>
-	   </tr>
-	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/DPI_Blockcheck">DPI Blockcheck</a> - 一个用于测试 Windows 上网站可用性的 Python 脚本</td>
+	   </tr>
+	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/Win32Hook">Win32Hook</a> - 一个基本 Windows API 劫持技术的示例</td>
-	   </tr>
-	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/hacking_the_blobs">Android 教程</a> - 一个关于使用 IDA 和十六进制编辑器修复专有 Android blobs 的教程</td>
+	   </tr>
+	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/rvdata2json">RVData2Json (Python 工具)</a> - 将 RVData (RPGMaker 游戏数据格式) 转换为 JSON</td>
-	   </tr>
-	   <tr>
 		  <td><a href="https://github.com/ChronoMonochrome/daytime_brightness_control">白天亮度控制</a> - 一个小工具，可以根据夜间/白天自动调整 Windows 设备亮度</td>
-		  <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">一个简单的 Python 服务器</a> - 一个 concept 的 Python 客户端-服务器应用</td>
 	   </tr>
 	   <tr>
+		  <td><a href="https://github.com/ChronoMonochrome/Flask_survey/">一个简单的 Python 服务器</a> - 一个 concept 的 Python 客户端-服务器应用</td>
 		  <td><a href="https://github.com/ChronoMonochrome/atomic-explorer">atomic-explorer</a> - 原子国际象棋变种探索器</td>
-		  <td></td>
 	   </tr>
 	</table>
 </div>
